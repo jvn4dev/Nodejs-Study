@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvn4dev/Nodejs-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvn4dev/Nodejs-Study/issues"
+  },
+  "homepage": "https://github.com/jvn4dev/Nodejs-Study#readme",
+  "dependencies": {
+    "sanitize-html": "^2.3.3"
+  }
+}
